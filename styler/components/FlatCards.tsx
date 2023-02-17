@@ -24,7 +24,8 @@ const styles = StyleSheet.create({
     headingText: {
         fontSize: 24,
         fontWeight: 'bold',
-        paddingHorizontal: 10,
+    paddingHorizontal: 16,
+    paddingVertical: 8,
     },
     container: {
         flex: 1,
@@ -38,7 +39,7 @@ const styles = StyleSheet.create({
         height: 100,
         width: 100,
         borderRadius: 4,
-        margin: 8,
+        margin: 6,
     },
     card1: {
         backgroundColor: 'red'
