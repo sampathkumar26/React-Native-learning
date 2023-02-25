@@ -1,7 +1,9 @@
 # React-Native-learning
 
-<h2>Awsome Project</h2>
+<h2>Awsome App</h2>
 
-<hr>
+In app, I have understood the creating and running of the react native project and also learned about the files and folder struture. 
 
-sampath
+<h2>Styler</h2>
+
+In this app, I learned how creating UI, FLEX, Stylesheet, Components of app.
